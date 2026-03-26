@@ -108,8 +108,6 @@ The backend was designed as a multi-service architecture handling user flows, pe
 ---
 
 ## GitHub Stats
-
-![Yahav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahavLer&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahavLer&layout=compact)
 
 ---
