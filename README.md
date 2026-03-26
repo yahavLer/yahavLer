@@ -9,19 +9,17 @@ I’m especially interested in:
 - Backend development
 - Production-oriented systems
 - Full-stack product building
-- AI-assisted applications
-- Clean architecture and scalable system design
 
 ---
 
 ## About Me
 
-- 🎓 B.Sc. in Software Engineering from **Afeka College of Engineering**
-- 💼 Experience working in a **Tier-2 NOC / production environment**
-- 🛠️ Built full-stack and mobile projects from planning to delivery
-- 👩‍💻 Strong hands-on experience with **Spring Boot, React, TypeScript, Android, PostgreSQL, MongoDB, Firebase**
-- 🤖 Interested in combining **software engineering with AI-powered workflows**
-- 📚 Currently continuing to grow in backend, system design, and interview preparation
+- B.Sc. in Software Engineering from **Afeka College of Engineering**
+- Experience working in a **Tier-2 NOC / production environment**
+- Built full-stack and mobile projects from planning to delivery
+- Strong hands-on experience with **Spring Boot, React, TypeScript, Android, PostgreSQL, MongoDB, Firebase**
+- Interested in combining **software engineering with AI-powered workflows**
+- Currently continuing to grow in backend,and system design
 
 ---
 
@@ -96,9 +94,7 @@ The backend was designed as a multi-service architecture handling user flows, pe
 
 - Backend services and APIs
 - Full-stack systems with clear structure
-- Business-oriented dashboards and workflows
 - Mobile applications
-- AI-enhanced product features
 - Systems that solve real operational problems
 
 ---
@@ -123,4 +119,3 @@ The backend was designed as a multi-service architecture handling user flows, pe
 - Strengthening backend and system design skills
 - Building production-style full-stack projects
 - Growing toward a backend / full-stack software engineering role
-- Expanding practical experience with AI-powered applications
